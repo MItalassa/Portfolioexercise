@@ -92,6 +92,9 @@ We are making the product card not growable, not shrinkable, and with an initial
   width: 100%;
 }
 
+img {
+  margin: 20px;
+}
 /* 
 What does the flex-direction property define?
 It defines in which direction the container wants to stack the flex items
